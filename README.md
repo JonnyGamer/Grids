@@ -17,3 +17,8 @@ func mandelBrotSet(c: (r: Double, i: Double), MAX_ITERATIONS: Int = 1000) -> Int
         
     }
 ```
+
+```
+let c = NSColor.init(red: CGFloat((4*mandel)%255)/255, green: CGFloat((3*mandel)%255)/255, blue: CGFloat((8*mandel)%255)/255, alpha: 1.0)
+
+```
