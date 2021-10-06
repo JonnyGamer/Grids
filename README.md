@@ -1,4 +1,4 @@
-# Grids
+# github.com/JonnyGamer/Grids/
 
 ```swift
 func mandelBrotSet(c: (r: Double, i: Double), MAX_ITERATIONS: Int = 1000) -> Int {
